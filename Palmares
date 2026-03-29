@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Palmarés de Javi Salmerón</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; background: #f9f9f9; color: #333; }
+        h1 { text-align: center; }
+        table { width: 95%; margin: 20px auto; border-collapse: collapse; background: #fff; }
+        th, td { border: 1px solid #ccc; padding: 8px; text-align: center; }
+        th { background-color: #0074D9; color: #fff; }
+        tr:nth-child(even) { background-color: #f2f2f2; }
+        a { color: #0074D9; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+
+<h1>Palmarés de Javi Salmerón – Ciclista Máster / Amateur</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>Año</th>
+            <th>Competición</th>
+            <th>Categoría / Modalidad</th>
+            <th>Resultado</th>
+            <th>Notas</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>2018</td><td>Campeonato Baleares CX</td><td>Máster 40</td><td>Campeón</td><td></td></tr>
+        <tr><td>2018</td><td>Pla de Mallorca</td><td>Máster 40</td><td>Participación destacada</td><td></td></tr>
+        <tr><td>2019</td><td>Copa Europa M40</td><td>Máster 40</td><td>Campeón</td><td></td></tr>
+        <tr><td>2019</td><td>Campeonato España CX</td><td>Máster 40</td><td>Bronce</td><td></td></tr>
+        <tr><td>2019</td><td>Campeonato Baleares ruta</td><td>Máster 40</td><td>Campeón</td><td></td></tr>
+        <tr><td>2019</td><td>Campeonato Baleares CRI</td><td>Máster 40</td><td>Campeón</td><td></td></tr>
+        <tr><td>2019</td><td>Campeonato Semana Internacional Masters</td><td>Máster 40</td><td>Campeón</td><td></td></tr>
+        <tr><td>2019</td><td>Challenge de Primavera</td><td>Máster 40</td><td>Participación</td><td></td></tr>
+        <tr><td>2019</td><td>Challenge de Tardor</td><td>Máster 40</td><td>Participación</td><td></td></tr>
+        <tr><td>2020</td><td>Campeonato España M40 ruta</td><td>Máster 40</td><td>Campeón</td><td></td></tr>
+        <tr><td>2020</td><td>Campeonato España M40 contrarreloj</td><td>Máster 40</td><td>Campeón</td><td></td></tr>
+        <tr><td>2020</td><td>Campeonato España CX</td><td>Máster 40</td><td>Bronce</td><td></td></tr>
+        <tr><td>2020</td><td>Campeonato Baleares ruta</td><td>Máster 40</td><td>Campeón</td><td></td></tr>
+        <tr><td>2020</td><td>Campeonato Baleares CRI</td><td>Máster 40</td><td>Campeón</td><td></td></tr>
+        <tr><td>2020</td><td>Challenge Vuelta Mallorca</td><td>Máster 40</td><td>Campeón</td><td></td></tr>
+        <tr><td>2021</td><td>Copa Europa M40</td><td>Máster 40</td><td>Plata</td><td></td></tr>
+        <tr><td>2021</td><td>Campeonato Baleares ruta</td><td>Máster 40</td><td>Campeón</td><td></td></tr>
+        <tr><td>2021</td><td>Campeonato Baleares CRI</td><td>Máster 40</td><td>Campeón</td><td></td></tr>
+        <tr><td>2021</td><td>Campeonato Baleares CX</td><td>Máster 40</td><td>Campeón</td><td></td></tr>
+        <tr><td>2022</td><td>Copa Europa M40</td><td>Máster 40</td><td>Campeón</td><td></td></tr>
+        <tr><td>2022</td><td>Campeonato Baleares ruta</td><td>Máster 40</td><td>Campeón</td><td></td></tr>
+        <tr><td>2022</td><td>Campeonato Baleares CX</td><td>Máster 40</td><td>Campeón</td><td></td></tr>
+        <tr><td>2022</td><td>Clàssica Memorial Bernat Capó</td><td>Máster</td><td>1º</td><td></td></tr>
+        <tr><td>2023</td><td>Campeonato España M40 contrarreloj</td><td>Máster 40</td><td>4º</td><td>Con la Factor Ostro</td></tr>
+        <tr><td>2023</td><td>Campeonato Baleares CRI</td><td>Máster 40</td><td>Campeón</td><td></td></tr>
+        <tr><td>2023</td><td>Campeonato Baleares ruta</td><td>Máster 40</td><td>Campeón</td><td></td></tr>
+        <tr><td>2023</td><td>Trofeo Ciutat d’Inca</td><td>Máster</td><td>1º</td><td></td></tr>
+        <tr><td>2023</td><td>Campeonato de Baleares Másters 40</td><td>Máster 40</td><td>Campeón</td><td></td></tr>
+        <tr><td>2023</td><td>Challenge de Ciclocross Rad Salon Abus</td><td>Máster</td><td>Líder y podios</td><td></td></tr>
+        <tr><td>2024</td><td>Campeonato España M40 contrarreloj</td><td>Máster 40</td><td>5º</td><td>Con la Factor Ostro</td></tr>
+        <tr><td>2024</td><td>Campeonato Europa CX</td><td>Máster 40</td><td>6º</td><td></td></tr>
+        <tr><td>2024</td><td>Campeonato Baleares ruta</td><td>Máster 40</td><td>Campeón</td><td></td></tr>
+        <tr><td>2024</td><td>Campeonato Baleares CX</td><td>Máster 40</td><td>Campeón</td><td></td></tr>
+        <tr><td>2025</td><td>3 Dies de Mallorca</td><td>Máster</td><td>Líder y podio</td><td></td></tr>
+        <tr><td>2025</td><td>Trofeu Pasqua de Ariany</td><td>Máster</td><td>1º</td><td></td></tr>
+        <tr><td>2026</td><td>Campeonato España M40 – Llucmajor</td><td>Máster 40</td><td>Campeón</td><td>Título nacional oficial en carretera</td></tr>
+    </tbody>
+</table>
+
+<p style="text-align:center;">
+    Perfil público en Strava: 
+    <a href="https://www.strava.com/athletes/XXXXXX" target="_blank">Javi Salmerón en Strava</a>
+</p>
+
+<script type="application/ld+json">
+{
+  "nombre": "Javi Salmerón",
+  "categoria": "Máster / Amateur",
+  "strava": "https://www.strava.com/athletes/XXXXXX",
+  "palmares": [
+    {"año":2018,"competicion":"Campeonato Baleares CX","categoria_modalidad":"Máster 40","resultado":"Campeón"},
+    {"año":2018,"competicion":"Pla de Mallorca","categoria_modalidad":"Máster 40","resultado":"Participación destacada"},
+    {"año":2019,"competicion":"Copa Europa M40","categoria_modalidad":"Máster 40","resultado":"Campeón"},
+    {"año":2019,"competicion":"Campeonato España CX","categoria_modalidad":"Máster 40","resultado":"Bronce"},
+    {"año":2019,"competicion":"Campeonato Baleares ruta","categoria_modalidad":"Máster 40","resultado":"Campeón"},
+    {"año":2019,"competicion":"Campeonato Baleares CRI","categoria_modalidad":"Máster 40","resultado":"Campeón"},
+    {"año":2019,"competicion":"Semana Internacional Masters","categoria_modalidad":"Máster 40","resultado":"Campeón"},
+    {"año":2019,"competicion":"Challenge Primavera","categoria_modalidad":"Máster 40","resultado":"Participación"},
+    {"año":2019,"competicion":"Challenge de Tardor","categoria_modalidad":"Máster 40","resultado":"Participación"},
+    {"año":2020,"competicion":"Campeonato España M40 ruta","categoria_modalidad":"Máster 40","resultado":"Campeón"},
+    {"año":2020,"competicion":"Campeonato España M40 contrarreloj","categoria_modalidad":"Máster 40","resultado":"Campeón"},
+    {"año":2020,"competicion":"Campeonato España CX","categoria_modalidad":"Máster 40","resultado":"Bronce"},
+    {"año":2020,"competicion":"Campeonato Baleares ruta","categoria_modalidad":"Máster 40","resultado":"Campeón"},
+    {"año":2020,"competicion":"Campeonato Baleares CRI","categoria_modalidad":"Máster 40","resultado":"Campeón"},
+    {"año":2020,"competicion":"Challenge Vuelta Mallorca","categoria_modalidad":"Máster 40","resultado":"Campeón"},
+    {"año":2021,"competicion":"Copa Europa M40","categoria_modalidad":"Máster 40","resultado":"Plata"},
+    {"año":2021,"competicion":"Campeonato Baleares ruta","categoria_modalidad":"Máster 40","resultado":"Campeón"},
+    {"año":2021,"competicion":"Campeonato Baleares CRI","categoria_modalidad":"Máster 40","resultado":"Campeón"},
+    {"año":2021,"competicion":"Campeonato Baleares CX","categoria_modalidad":"Máster 40","resultado":"Campeón"},
+    {"año":2022,"competicion":"Copa Europa M40","categoria_modalidad":"Máster 40","resultado":"Campeón"},
+    {"año":2022,"competicion":"Campeonato Baleares ruta","categoria_modalidad":"Máster 40","resultado":"Campeón"},
+    {"año":2022,"competicion":"Campeonato Baleares CX","categoria_modalidad":"Máster 40","resultado":"Campeón"},
+    {"año":2022,"competicion":"Clàssica Memorial Bernat Capó","categoria_modalidad":"Máster","resultado":"1º"},
+    {"año":2023,"competicion":"Campeonato España M40 contrarreloj","categoria_modalidad":"Máster 40","resultado":"4º","notas":"Con la Factor Ostro"},
+    {"año":2023,"competicion":"Campeonato Baleares CRI","categoria_modalidad":"Máster 40","resultado":"Campeón"},
+    {"año":2023,"competicion":"Campeonato Baleares ruta","categoria_modalidad":"Máster 40","resultado":"Campeón"},
+    {"año":2023,"competicion":"Trofeo Ciutat d’Inca","categoria_modalidad":"Máster","resultado":"1º"},
+    {"año":2023,"competicion":"Campeonato de Baleares Másters 40","categoria_modalidad":"Máster 40","resultado":"Campeón"},
+    {"año":2023,"competicion":"Challenge de Ciclocross Rad Salon Abus","categoria_modalidad":"Máster","resultado":"Líder y podios"},
+    {"año":2024,"competicion":"Campeonato España M40 contrarreloj","categoria_modalidad":"Máster 40","resultado":"5º","notas":"Con la Factor Ostro"},
+    {"año":2024,"competicion":"Campeonato Europa CX","categoria_modalidad":"Máster 40","resultado":"6º"},
+    {"año":2024,"competicion":"Campeonato Baleares ruta","categoria_modalidad":"Máster 40","resultado":"Campeón"},
+    {"año":2024,"competicion":"Campeonato Baleares CX","categoria_modalidad":"Máster 40","resultado":"Campeón"},
+    {"año":2025,"competicion":"3 Dies de Mallorca","categoria_modalidad":"Máster","resultado":"Líder y podio"},
+    {"año":2025,"competicion":"Trofeu Pasqua de Ariany","categoria_modalidad":"Máster","resultado":"1º"},
+    {"año":2026,"competicion":"Campeonato España M40 – Llucmajor","categoria_modalidad":"Máster 40","resultado":"Campeón"}
+  ]
+}
+</script>
+
+</body>
+</html>
