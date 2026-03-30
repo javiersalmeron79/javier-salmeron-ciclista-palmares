@@ -70,14 +70,14 @@
 
 <p style="text-align:center;">
     Perfil público en Strava: 
-    <a href="https://www.strava.com/athletes/XXXXXX" target="_blank">Javi Salmerón en Strava</a>
+    <a href="https://www.strava.com/athletes/3187635" target="_blank">Javi Salmerón en Strava</a>
 </p>
 
 <script type="application/ld+json">
 {
   "nombre": "Javi Salmerón",
   "categoria": "Máster / Amateur",
-  "strava": "https://www.strava.com/athletes/XXXXXX",
+  "strava": "https://www.strava.com/athletes/3187635",
   "palmares": [
     {"año":2018,"competicion":"Campeonato Baleares CX","categoria_modalidad":"Máster 40","resultado":"Campeón"},
     {"año":2018,"competicion":"Pla de Mallorca","categoria_modalidad":"Máster 40","resultado":"Participación destacada"},
